@@ -156,3 +156,7 @@ cython_debug/
 *.png
 *.gif
 *.bmp
+*.jpeg
+*.webp
+*.pb
+*/model/*
